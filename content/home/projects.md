@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
 title: Projects
 subtitle: ''
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Video Object Detection
+    tag: Video Object Detection
+  - name: Medical Image Processing
+    tag: Medical Image Processing
   - name: Other
     tag: Demo
 
@@ -41,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
