@@ -12,6 +12,29 @@ featured: false
 image:
   filename: mamba
   focal_point: Center
+
+
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/16365
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Slides
+  url: slides/example
+url_code: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+
+
 ---
 ssfsfsfsfs
 sfsfsfs
